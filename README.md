@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicon/devicons/icons/html5/html5-plain.svg" height="40" alt="HTML logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain.svg" height="40" alt="HTML logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
