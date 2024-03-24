@@ -6,8 +6,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Facebook-%233b5998?style=for-the-badge&logo=facebook&labelColor=%23000&color=%233b5998&cacheSeconds=1s&link=https%3A%2F%2Fwww.facebook.com%2FDevilInside.gg" height="25" alt="Facebook Logo" />
-  <img src="https://img.shields.io/badge/WhatsApp-%23075E54?style=for-the-badge&logo=whatsapp&labelColor=%23000&color=%23075E54&cacheSeconds=1s&link=https%3A%2F%2Fwww.facebook.com%2FDevilInside.gg
-" height="25" alt="WhatsApp Logo" />
+  <img src="https://img.shields.io/badge/WhatsApp-%23075E54?style=for-the-badge&logo=whatsapp&labelColor=%23000&color=%23075E54&cacheSeconds=1s&link=https%3A%2F%2Fwww.facebook.com%2FDevilInside.gg" height="25" alt="WhatsApp Logo" />
 </div>
 
 ###
