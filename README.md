@@ -6,7 +6,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Facebook-%233b5998?style=for-the-badge&logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2FDevilInside.gg%2F" height="25" alt="Facebook Logo" />
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" href="#" />
+    <img src="https://img.shields.io/badge/Whats_App-%23075e54?style=for-the-badge&logo=whatsapp&link=https%3A%2F%2" height="25" alt="youtube logo" href="#" />
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" href="#" />
 </div>
 
