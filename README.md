@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="(https://streak-stats.demolab.com?user=turkxytech&theme=dark&type=png)" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=turkxytech&theme=dark&type=png" height="220" alt="streak graph"  />
 </div>
 
 ###
