@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=turkxytech&theme=dark&type=png)](https://git.io/streak-stats) height="220" alt="streak graph"  />
+  <img src="(https://streak-stats.demolab.com?user=turkxytech&theme=dark&type=png)" height="220" alt="streak graph"  />
 </div>
 
 ###
