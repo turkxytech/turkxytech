@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="(https://visitor-badge.glitch.me/badge?page_id=turkxytech.README.md&left_text=Vistors)"  />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=turkxytech.README.md&left_text=Vistors"  />
 </div>
 
 ###
